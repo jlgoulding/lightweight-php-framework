@@ -1,7 +1,7 @@
 <?php
 return [
     'database' => [
-        'name' => 'bhnft_BHNFTApp',
+        'name' => 'tablename',
         'username' => 'root',
         'password' => '',
         'connection' => 'mysql:host=127.0.0.1',
@@ -14,7 +14,7 @@ return [
 
 // return [
 //     'database' => [
-//         'name' => 'vactrack',
+//         'name' => 'tablename',
 //         'username' => 'root',
 //         'password' => '',
 //         'connection' => 'mysql:host=127.0.0.1',
