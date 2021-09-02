@@ -1,0 +1,37 @@
+$primary: #0d6efd;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #5bc0de;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #343a40;
+
+$theme-colors: (
+  primary: $primary,
+  secondary: $secondary,
+  success: $success,
+  info: $info,
+  warning: $warning,
+  danger: $danger,
+  light: $light,
+  dark: $dark,
+    // custom theme colours below
+  bhnft-lightblue: #a0dcf2,
+  bhnft-red: #e04744,
+  bhnft-darkblue: #0072ce,
+  bhnft-yellow: #faeb2b,
+  bhnft-green: #64db70,
+);
+
+.bg-grad {
+  background: rgb(160, 220, 242);
+  background: linear-gradient(
+    145deg,
+    rgb(7, 102, 192) 0%,
+    rgba(160, 220, 242, 1) 100%
+  );
+}
+
+$gradient-dir: 120deg;
+

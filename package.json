@@ -1,0 +1,35 @@
+{
+  "name": "gulp-sass-bootstrap",
+  "version": "1.0.0",
+  "description": "Welcome to the Gulp4 SaSS Bootstrap setup using BrowserSync to Automate your changes",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.2",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.7",
+    "gulp": "^4.0.2",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1",
+    "postcss": "^8.3.6",
+    "prettier": "^2.3.2"
+  },
+  "devDependencies": {
+    "sass": "^1.36.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https:"
+  },
+  "homepage": "https:"
+}
